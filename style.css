@@ -1,35 +1,25 @@
-.top-section{
-    overflow: hidden;
-    background-color: blue;
-    padding: 50px;
-}
-.left{
-float: left;
-color: white;
-}
-.right{
-    float: right;
+.h{
+    margin: 10px;
+    padding: 20px;
+    background-color: green;
+    color: brown;
+    border-radius: 20px;
+    height: 30px;
+    width: 50px;
+    border:1px solid brown;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
 
 }
-img{
-    border-radius:100px;
-    height: 200px;
-    width: 200px;
-}
-body{
+.r{
+    padding: 100px;
+    margin: 100px;
+    background-color: yellow;
+    border: 1px solid red;
     font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
+    border-radius: 20px;
+    font-size: 40px;
 }
-.state{
-    float: left;
-    width: 80%;
-    
-}
-.con{
-    float: right;
-}
-.mid{
-    padding: 50px;
-    overflow: hidden;
-    border:black 1px;
+.body{
+    background-color: gray;
 }
